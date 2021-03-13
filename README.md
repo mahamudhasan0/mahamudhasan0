@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Mahamud Hasan  <img src="./img/hello.gif" width="25px"></h2>
 <p align="center">
-   Bachelor of Science in Computer Science and Engineering.(4th Year 1rst Semester )
+   Bachelor of Science in Computer Science and Engineering.(BIST)
 </p>
 <h5 align="center">
   <code><a href="https://www.facebook.com/mahamudhasanmithoon/" target="blank" title="Facebook Profile"><img width="22" src="./img/facebook-32x32.png"> Facebook </a></code>
