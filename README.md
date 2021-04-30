@@ -4,7 +4,7 @@
 </p>
 <h5 align="center">
   <code><a href="https://www.facebook.com/mahamudhasanmithoon/" target="blank" title="Facebook Profile"><img width="22" src="./img/facebook-32x32.png"> Facebook </a></code>
-  <code><a href="www.linkedin.com/in/mahamaudhasan0/" target="blank" title="LinkedIn Profile"><img width="22" src="./img/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/mahamaudhasan0/" target="blank" title="LinkedIn Profile"><img width="22" src="./img/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 
